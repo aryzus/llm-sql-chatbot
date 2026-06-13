@@ -146,3 +146,11 @@ Pandas DataFrame + Plotly Chart
 - **SQL** — dynamic query generation and execution
 - **Data visualization** — auto-chart selection based on query type
 - **Streamlit** — multi-component UI with session state management
+
+- ## Demo
+
+![Main UI](screenshots/Screenshot%201%20—%20Main%20chat%20view.png)
+![Bar Chart](screenshots/Screenshot%202%20—%20Bar%20chart%20result%20chart.png)
+![Line Chart](screenshots/Screenshot%203%20—%20Line%20chart%20result.png)
+![SQL Expander](screenshots/Screenshot%204%20—%20SQL%20expander%20open.png)
+![Safety Block](screenshots/Screenshot%205%20—%20Safety%20block.png)
