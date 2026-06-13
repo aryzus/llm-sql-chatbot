@@ -148,10 +148,10 @@ Pandas DataFrame + Plotly Chart
 - **Streamlit** — multi-component UI with session state management
 
 
-## Demo
 
+## Demo
 ![Main UI](screenshots/01_main_ui.png)
 ![Top 10 Products](screenshots/02_top10_products.png)
 ![SQL Generated](screenshots/03_sql_expander.png)
-![Negative Profit Orders](screenshots/04_negative_profit.png)
+![Negative Profit](screenshots/04_negative_profit.png)
 ![Regional Profit](screenshots/05_regional_profit.png)
