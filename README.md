@@ -68,7 +68,7 @@ llm-sql-chatbot/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-sql-chatbot.git
+git clone https://github.com/aryzus/llm-sql-chatbot.git
 cd llm-sql-chatbot
 ```
 
